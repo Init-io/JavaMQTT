@@ -1,8 +1,5 @@
-Sure! Here's a **Gen Z–style, funny-yet-professional** `README.md` for your `JavaMQTT` library. It includes usage instructions, purpose, pinchy tone, and some spice to make devs *actually* read it.
-
 ---
 
-````markdown
 # 🐝 JavaMQTT – MQTT so simple, even your toaster could use it.
 
 Yo, welcome to **JavaMQTT** – a minimalist MQTT wrapper for Java and Android devs who just want to send data, not write dissertations on `IMqttToken`. No AndroidX, no `MqttAndroidClient` drama. Just vibes and messages flying over TCP/SSL.
