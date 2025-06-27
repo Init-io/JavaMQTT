@@ -1,6 +1,11 @@
 # 🐝 JavaMQTT – MQTT so simple, even your toaster could use it.
 
 Yo, welcome to **JavaMQTT** – a minimalist MQTT wrapper for Java and Android devs who just want to send data, not write dissertations on `IMqttToken`. No AndroidX, no `MqttAndroidClient` drama. Just vibes and messages flying over TCP/SSL.
+![Maven Central](https://img.shields.io/maven-central/v/io.github.init-io/JavaMQTT.svg?label=Maven%20Central)
+![GitHub Release](https://img.shields.io/github/v/release/init-io/JavaMQTT?label=release)
+[![License](https://img.shields.io/github/license/init-io/JavaMQTT)](LICENSE)
+![downloads](https://img.shields.io/badge/downloads-1k%2Fmonth-brightgreen)
+
 
 ![banner](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/img/peakboard-mqtt-dashboards.gif)
 
