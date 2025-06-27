@@ -147,7 +147,7 @@ MIT. Do whatever. Just don’t use this to control actual nukes or your grandma�
 
 ## 🦄 Author
 
-Made by [@SiamRayhan](https://github.com/siamrayhan) – lover of fast libs, cleaner APIs, and unnecessarily long README files.
+Made by [@SiamRayhan](https://instagram.com/thesiamrayhan) – lover of fast libs, cleaner APIs, and unnecessarily long README files.
 
 ---
 
