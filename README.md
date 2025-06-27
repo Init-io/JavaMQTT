@@ -151,7 +151,4 @@ Made by [@SiamRayhan](https://instagram.com/thesiamrayhan) – lover of fast lib
 
 ---
 
-> If you like this lib, ⭐ it. If not, maybe meditate or touch grass.
-
-
----
+ If you like this lib, ⭐ it. If not, maybe meditate or touch grass.
