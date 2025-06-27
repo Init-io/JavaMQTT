@@ -2,7 +2,7 @@
 
 Yo, welcome to **JavaMQTT** – a minimalist MQTT wrapper for Java and Android devs who just want to send data, not write dissertations on `IMqttToken`. No AndroidX, no `MqttAndroidClient` drama. Just vibes and messages flying over TCP/SSL.
 
-![banner](https://media.giphy.com/media/3o7aD4hTgFLzEbVvDi/giphy.gif)
+![banner]([https://media.giphy.com/media/3o7aD4hTgFLzEbVvDi/giphy.gif](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/img/peakboard-mqtt-dashboards.gif))
 
 ---
 
